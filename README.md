@@ -19,6 +19,6 @@ yarn build
 ```
 yarn lint
 ```
-
+<img src="./src/assets/image/微信图片_20200824152055.jpg">
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
